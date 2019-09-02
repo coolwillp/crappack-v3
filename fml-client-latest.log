@@ -1,0 +1,302 @@
+[12:16:58] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[12:16:58] [main/INFO] [FML/]: Forge Mod Loader version 14.23.0.2552 for Minecraft 1.12.2 loading
+[12:16:58] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_151, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_151
+[12:16:58] [main/DEBUG] [FML/]: Java classpath at launch is:
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\modpacks\new-adventures-1122\bin\modpack.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\jline\jline\2.13\jline-2.13.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\typesafe\config\1.2.1\config-1.2.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\mojang\patchy\1.1\patchy-1.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\google\guava\guava\21.0\guava-21.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\commons-io\commons-io\2.5\commons-io-2.5.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\mojang\realms\1.10.17\realms-1.10.17.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\cache\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\modpacks\new-adventures-1122\bin\minecraft.jar
+[12:16:58] [main/DEBUG] [FML/]: Java library path at launch is:
+[12:16:58] [main/DEBUG] [FML/]:     E:\Technic\modpacks\new-adventures-1122\bin\natives
+[12:16:58] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[12:16:58] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[12:16:58] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[12:16:58] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[12:16:58] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[12:16:58] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[12:16:58] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[12:16:58] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[12:16:58] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[12:16:58] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[12:16:58] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[12:17:02] [main/ERROR] [FML/]: Found invalid ContainsDeps declaration AutoSave-1.12.2-1.0.11.jar in E:\Technic\modpacks\new-adventures-1122\mods\EnderIO-1.12.2-5.1.51.jar
+[12:17:02] [main/ERROR] [FML/]: Found invalid ContainsDeps declaration AutoConfig-1.12.2-1.0.2.jar in E:\Technic\modpacks\new-adventures-1122\mods\EnderIO-1.12.2-5.1.51.jar
+[12:17:03] [main/DEBUG] [FML/]: Found existing ContainsDep extracted to E:\Technic\modpacks\new-adventures-1122\mods\ChickenASM-1.12-1.0.2.7.jar, skipping extraction
+[12:17:05] [main/DEBUG] [FML/]: Found existing ContainsDep extracted to E:\Technic\modpacks\new-adventures-1122\mods\ImmersiveEngineering-0.12-89-core.jar, skipping extraction
+[12:17:11] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to E:\Technic\modpacks\new-adventures-1122
+[12:17:11] [main/DEBUG] [FML/]: Discovering coremods
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.12]TreeCapitator-client-1.43.0.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in [1.12]TreeCapitator-client-1.43.0.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy ActuallyAdditions-1.12.2-r150.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in ActuallyAdditions-1.12.2-r150.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy ActuallyBaubles-1.12-1.1.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in ActuallyBaubles-1.12-1.1.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy AdditionalEnchantedMiner-1.12.2-1.1.3-universal.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in AdditionalEnchantedMiner-1.12.2-1.1.3-universal.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy Advanced+Machines-61.0.1.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in Advanced+Machines-61.0.1.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy AkashicTome-1.2-12.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in AkashicTome-1.2-12.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy alchemistry-1.0.34.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in alchemistry-1.0.34.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy Apocalypse-Content Pack-1.12.2-5.5.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in Apocalypse-Content Pack-1.12.2-5.5.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy AppleSkin-mc1.12-1.0.9.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in AppleSkin-mc1.12-1.0.9.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy appliedenergistics2-rv6-stable-7.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in appliedenergistics2-rv6-stable-7.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy AromaBackup-1.12.2-2.1.1.4.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in AromaBackup-1.12.2-2.1.1.4.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy astralsorcery-1.12.2-1.10.19.jar
+[12:17:11] [main/WARN] [FML/]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.19.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:17:11] [main/DEBUG] [FML/]: Instantiating coremod class AstralCore
+[12:17:11] [main/TRACE] [FML/]: coremod named AstralCore is loading
+[12:17:11] [main/WARN] [FML/]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:17:11] [main/DEBUG] [FML/]: Found signing certificates for coremod AstralCore (hellfirepvp.astralsorcery.core.AstralCore)
+[12:17:11] [main/DEBUG] [FML/]: Found certificate a0f0b759d895c15ceb3e3bcb5f3c2db7c582edf0
+[12:17:11] [main/INFO] [Astral Core/]: [AstralCore] Initialized.
+[12:17:11] [main/DEBUG] [FML/]: Added access transformer class hellfirepvp.astralsorcery.core.AstralTransformer to enqueued access transformers
+[12:17:11] [main/DEBUG] [FML/]: Enqueued coremod AstralCore
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy AttachableGrinder-1.12.2-7.0.0.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in AttachableGrinder-1.12.2-7.0.0.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy backpack-3.0.2-1.12.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in backpack-3.0.2-1.12.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy Baubles-1.12-1.5.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in Baubles-1.12-1.5.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy bdlib-1.14.3.12-mc1.12.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in bdlib-1.14.3.12-mc1.12.2.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy BetterAdvancements-1.12.2-0.1.0.77.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in BetterAdvancements-1.12.2-0.1.0.77.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy bewitchment-1.12.2-0.0.20.8.jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in bewitchment-1.12.2-0.0.20.8.jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy BiblioCraft[v2.4.5][MC1.12.2].jar
+[12:17:11] [main/DEBUG] [FML/]: Not found coremod data in BiblioCraft[v2.4.5][MC1.12.2].jar
+[12:17:11] [main/DEBUG] [FML/]: Examining for coremod candidacy BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy blockcraftery-1.12.2-1.3.1.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in blockcraftery-1.12.2-1.3.1.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy BloodMagic-1.12.2-2.4.1-103.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in BloodMagic-1.12.2-2.4.1-103.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Bookshelf-1.12.2-2.3.585.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Bookshelf-1.12.2-2.3.585.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Botania+r1.10-361.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Botania+r1.10-361.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy BrandonsCore-1.12.2-2.4.17.208-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in BrandonsCore-1.12.2-2.4.17.208-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy BuildingGadgets-2.7.3.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in BuildingGadgets-2.7.3.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Carpenter's Blocks v3.4.0-poc.6 - MC 1.12.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Carpenter's Blocks v3.4.0-poc.6 - MC 1.12.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Chameleon-1.12-4.1.3.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Chameleon-1.12-4.1.3.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ChickenASM-1.12-1.0.2.7.jar
+[12:17:12] [main/INFO] [FML/]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Chisel-MC1.12.2-0.2.1.35.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Chisel-MC1.12.2-0.2.1.35.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy chiselsandbits-14.33.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in chiselsandbits-14.33.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CleanView-1.12.2-v1c.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CleanView-1.12.2-v1c.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.12.2-3.2.3.357-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CodeChickenLib-1.12.2-3.2.3.357-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy compacter-1.1.0.12-mc1.7.10.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in compacter-1.1.0.12-mc1.7.10.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy compactmachines3-1.12.2-3.0.18-b278.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in compactmachines3-1.12.2-3.0.18-b278.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CompactSolars-1.12.2-5.0.18.341-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CompactSolars-1.12.2-5.0.18.341-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ComputerCraft-Mod-1.12.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in ComputerCraft-Mod-1.12.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Computronics-1.12.2-1.6.6.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Computronics-1.12.2-1.6.6.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Controlling-3.0.7.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Controlling-3.0.7.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CookingForBlockheads_1.12.2-6.4.71.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CookingForBlockheads_1.12.2-6.4.71.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CosmeticArmorReworked-1.12.2-v4.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CosmeticArmorReworked-1.12.2-v4.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CraftTweaker2-1.12-4.1.19.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CraftTweaker2-1.12-4.1.19.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CTM-MC1.12.2-0.3.3.22.jar
+[12:17:12] [main/WARN] [FML/]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:17:12] [main/DEBUG] [FML/]: Instantiating coremod class CTMCorePlugin
+[12:17:12] [main/WARN] [FML/]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:17:12] [main/WARN] [FML/]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[12:17:12] [main/DEBUG] [FML/]: Enqueued coremod CTMCorePlugin
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy CustomMainMenu-MC1.12.2-2.0.9.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in CustomMainMenu-MC1.12.2-2.0.9.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy DarkUtils-1.12.2-1.8.226.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in DarkUtils-1.12.2-1.8.226.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy DeathCounter-1.12.1-1.0.0.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in DeathCounter-1.12.1-1.0.0.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Ding-1.12.1-1.0.1.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Ding-1.12.1-1.0.1.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Draconic-Evolution-1.12.2-2.3.24.349-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Draconic-Evolution-1.12.2-2.3.24.349-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy EnchantingPlus-1.12.2-5.0.176.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in EnchantingPlus-1.12.2-5.0.176.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderIO-1.12.2-5.1.51.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in EnderIO-1.12.2-5.1.51.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderStorage-1.12.2-2.4.6.137-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in EnderStorage-1.12.2-2.4.6.137-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderZoo-1.12.1-1.4.0.49.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in EnderZoo-1.12.1-1.4.0.49.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy energyconverters_1.12.2-1.3.0.15.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in energyconverters_1.12.2-1.3.0.15.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ExtraCells-1.12.2-2.6.2a.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in ExtraCells-1.12.2-2.6.2a.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy extrautils2-1.12-1.9.9.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in extrautils2-1.12-1.9.9.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ExtremeReactors-1.12.2-0.4.5.67.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in ExtremeReactors-1.12.2-0.4.5.67.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy fastcraft-2.0.27.jar
+[12:17:12] [main/INFO] [FML/]: Loading tweaker fastcraft.legacy.Tweaker from fastcraft-2.0.27.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy FastFurnace-1.12.2-1.3.1.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in FastFurnace-1.12.2-1.3.1.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy FastLeafDecay-v14.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in FastLeafDecay-v14.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy FastWorkbench-1.12.2-1.7.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in FastWorkbench-1.12.2-1.7.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy Flan's Mod-1.12.2-5.5.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in Flan's Mod-1.12.2-5.5.2.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy forestry_1.12.2-5.8.1.322.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in forestry_1.12.2-5.8.1.322.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeEndertech-1.12.2-4.4.22.2-build.0405.jar
+[12:17:12] [main/WARN] [FML/]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.4.22.2-build.0405.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:17:12] [main/DEBUG] [FML/]: Instantiating coremod class CorePlugin
+[12:17:12] [main/WARN] [FML/]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:17:12] [main/WARN] [FML/]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[12:17:12] [main/DEBUG] [FML/]: Enqueued coremod CorePlugin
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeMultipart-1.12.2-2.6.2.83-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Not found coremod data in ForgeMultipart-1.12.2-2.6.2.83-universal.jar
+[12:17:12] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeRelocation-0.0.1.4-universal.jar
+[12:17:12] [main/WARN] [FML/]: Found FMLCorePluginContainsFMLMod marker in ForgeRelocation-0.0.1.4-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:17:12] [main/DEBUG] [FML/]: Instantiating coremod class RelocationPlugin
+[12:17:12] [main/ERROR] [LaunchWrapper/]: Unable to launch
+java.lang.RuntimeException: An error occurred trying to configure the Minecraft home at E:\Technic\modpacks\new-adventures-1122 for Forge Mod Loader
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:104) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:75) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:38) ~[modpack.jar:?]
+	at net.minecraftforge.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:137) ~[modpack.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NoClassDefFoundError: cpw/mods/fml/relauncher/IFMLLoadingPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.access$100(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:592) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:427) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:254) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:100) ~[modpack.jar:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: cpw.mods.fml.relauncher.IFMLLoadingPlugin
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.access$100(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:592) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:427) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:254) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:100) ~[modpack.jar:?]
+	... 5 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.defineClass(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.access$100(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_151]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:592) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:427) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:254) ~[modpack.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:100) ~[modpack.jar:?]
+	... 5 more
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.SecurityManager.checkExit(Unknown Source)
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Runtime.exit(Unknown Source)
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.System.exit(Unknown Source)
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[12:17:12] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
